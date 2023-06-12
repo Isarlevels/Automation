@@ -3056,7 +3056,7 @@
       "id": "4ffc1597-ba03-4b7e-9b1e-1a7882332b57",
       "comment": "",
       "command": "setWindowSize",
-      "target": "1280x720",
+      "target": "1920*1080",
       "targets": [],
       "value": ""
     }, {
