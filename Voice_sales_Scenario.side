@@ -32,6 +32,41 @@
       ],
       "value": ""
     }, {
+      "id": "d12348b8-8041-4c62-99f1-f3fb7b0de72a",
+      "comment": "",
+      "command": "click",
+      "target": "css=.text-uppercase",
+      "targets": [
+        ["css=.text-uppercase", "css:finder"],
+        ["xpath=//div[@id='root']/div/div/div/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "7269abe5-4aeb-4f2c-a17e-723ddacf8add",
+      "comment": "",
+      "command": "click",
+      "target": "css=.fourth",
+      "targets": [
+        ["css=.fourth", "css:finder"],
+        ["xpath=//img[@alt='Voice 4']", "xpath:img"],
+        ["xpath=//div[@id='root']/div/div/div/div/div[4]/div/img", "xpath:idRelative"],
+        ["xpath=//div[4]/div/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "50e03dd4-472b-4202-8472-9600476e900d",
+      "comment": "",
+      "command": "click",
+      "target": "css=.btn",
+      "targets": [
+        ["css=.btn", "css:finder"],
+        ["xpath=//button[@type='button']", "xpath:attributes"],
+        ["xpath=//div[@id='root']/div/div/div/div[2]/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
       "id": "ab5fb61f-d9dc-417e-ac0d-a39e0f3009bc",
       "comment": "",
       "command": "mouseOver",
